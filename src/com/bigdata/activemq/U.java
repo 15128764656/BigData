@@ -25,7 +25,7 @@ public class U implements Serializable{
 	public void setText(String text) {
 		this.text = text;
 	}
-
+	//zhushi
 	@Override
 	public String toString() {
 		return "U [code=" + code + ", text=" + text + "]";
